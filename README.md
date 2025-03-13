@@ -15,3 +15,5 @@ Test Scenarios:
 - Add Product: Test adding a product and ensuring its presence in the inventory with the correct quantity.
 - Reduce Quantity: Test reducing the quantity of a product and checking if the quantity is updated correctly.
 - Remove Product: Test removing a product from the inventory and verifying that it no longer exists.
+- Get Total Value: Test getting total value of an inventory.
+- Test Get Product: Test getting a product from the inventory.
